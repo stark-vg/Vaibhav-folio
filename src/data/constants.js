@@ -407,6 +407,27 @@ export const projects = [
     ],
   },
   {
+    id: 3,
+    title: "Zero-Kattas",
+    date: "Feb 2022 - April 2023",
+    description:
+      "Developed a basic app and web application based small game. The game is played on a grid that's 3 squares by 3 squares. You are X , your friend (or the computer in this case) is O . Players take turns putting their marks in empty squares. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.",
+    image:
+      "TicTacToe.PNG",
+    tags: ["React Js", "HTML", "CSS", "Javascript", "Android apk"],
+    category: "android app",
+    android: "https://drive.google.com/file/d/1UTxjZnnvjLAAo58uZqJtnMwmpGrx6Iyy/view?usp=sharing",
+    webapp: "https://zero-kattas.tiiny.site/",
+    member: [
+      {
+        name: "Vaibhav Goel",
+        img: "HeroImage.jpg",
+        linkedin: "https://www.linkedin.com/in/vaibhav-goel-937027191/",
+        github: "https://github.com/stark-vg",
+      },
+    ],
+  },
+  {
     id: 8,
     title: "Face Recognition",
     date: "Jan 2023",
