@@ -416,7 +416,7 @@ export const projects = [
       "TicTacToe.PNG",
     tags: ["React Js", "HTML", "CSS", "Javascript", "Android apk"],
     category: "android app",
-    android: "https://drive.google.com/file/d/1UTxjZnnvjLAAo58uZqJtnMwmpGrx6Iyy/view?usp=sharing",
+    android: "https://drive.google.com/file/d/1UTxjZnnvjLAAo58uZqJtnMwmpGrx6Iyy/view",
     webapp: "https://zero-kattas.tiiny.site/",
     member: [
       {
