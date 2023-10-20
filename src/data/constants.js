@@ -324,6 +324,40 @@ export const education = [
 
 export const projects = [
   {
+    id: 5,
+    title: "Todo Web App",
+    date: "Jun 2021",
+    description:
+      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+    image:
+      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+    category: "web app",
+    github: "https://github.com/stark-vg/Todo-web",
+    webapp: "https://rishav-react-todo.netlify.app/",
+  },
+  {
+    id: 7,
+    title: "Lakme eKart",
+    date: "Dec 2021 - Jan 2022",
+    description:
+      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
+    image:
+      "Lakme-kart.PNG",
+    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
+    category: "Web app",
+    github: "https://github.com/stark-vg/Lakme-Kart",
+    webapp: "https://lakme-cart.netlify.app/",
+    member: [
+      {
+        name: "Vaibhav Goel",
+        img: "HeroImage.jpg",
+        linkedin: "https://www.linkedin.com/in/vaibhav-goel-937027191/",
+        github: "https://github.com/stark-vg",
+      },
+    ],
+  },
+  {
     id: 9,
     title: "Home Automation System",
     date: "April 2022 - October 2022",
@@ -386,27 +420,6 @@ export const projects = [
     webapp: "https://github.com/stark-vg/Face-Recognition",
   },
   {
-    id: 7,
-    title: "Lakme eKart",
-    date: "Dec 2021 - Jan 2022",
-    description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-    image:
-      "Lakme-kart.PNG",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-    category: "Web app",
-    github: "https://github.com/stark-vg/Lakme-Kart",
-    webapp: "https://lakme-cart.netlify.app/",
-    member: [
-      {
-        name: "Vaibhav Goel",
-        img: "HeroImage.jpg",
-        linkedin: "https://www.linkedin.com/in/vaibhav-goel-937027191/",
-        github: "https://github.com/stark-vg",
-      },
-    ],
-  },
-  {
     id: 1,
     title: "Vexa",
     date: "Oct 2022 - Present",
@@ -423,7 +436,7 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
+    github: "https://github.com/stark-vg/Vexa-PMA",
     webapp: "https://vexa-app.netlify.app/",
   },
   {
@@ -486,19 +499,7 @@ export const projects = [
     github: "https://github.com/stark-vg/whatsapp-cpy",
     webapp: "https://whatsapp-clone-rishav.web.app",
   },
-  {
-    id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
-    description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-    category: "web app",
-    github: "https://github.com/stark-vg/Todo-web",
-    webapp: "https://rishav-react-todo.netlify.app/",
-  },
+  
   {
     id: 6,
     title: "Breaking Bad",
