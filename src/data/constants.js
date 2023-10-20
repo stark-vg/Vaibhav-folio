@@ -182,7 +182,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "Trangile.png",
+    img: "Trangile1.png",
     role: "DevOps & Fullstack Engineering Intern",
     company: "Trangile Pvt. Ltd.",
     date: "Sep 2021 - May 2022",
