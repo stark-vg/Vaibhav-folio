@@ -339,12 +339,12 @@ export const projects = [
   {
     id: 7,
     title: "Lakme eKart",
-    date: "Dec 2021 - Jan 2022",
+    date: "Sep 2022 - March 2023",
     description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
+      "Developed a full-stack web application that allows users to search for their favorite Lakme Products. Implemented validations and checks on the user form, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
       "Lakme-kart.PNG",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
+    tags: ["React js", "CSS", "Javascript", "Redux", "Typescript"],
     category: "Web app",
     github: "https://github.com/stark-vg/Lakme-Kart",
     webapp: "https://lakme-cart.netlify.app/",
@@ -358,32 +358,25 @@ export const projects = [
     ],
   },
   {
-    id: 9,
-    title: "Home Automation System",
-    date: "April 2022 - October 2022",
+    id: 10,
+    title: "Flipkart Clone",
+    date: "Nov 2022 - May 2023",
     description:
-      "Starkiot is a web application home automation based system designed to control the electric switches remotely from any place around the globe. It provides a user-friendly interface for customers to keep track of their electricity bills. \nAdmin Credentials:	#Email: rajneesh.saini1976@gmail.com	#Password- 1234",
+    "Developed a full-stack E-commerce web application that allows users to search for their favorite products on demand and create wishlist. Implemented validations and checks on the user form, made responsive user interface with Angular that provides users with a seamless experience across all devices. Using jasmine as well in the development of this project having searching functionality alone with add to cart functionality. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
-      "Home-Automation.jpg",
-    tags: [
-      "Angular",
-      "Javascript",
-      "Typescript",
-      "CSS",
-      "Git/Github",
-      "Stored Procedures",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "Xampp",
-      "Mysql",
-      "Php",
+      "Flipkart_clone.PNG",
+    tags: ["Angular", "CSS", "Javascript", "Redux", "Typescript", "MVC"],
+    category: "Web app",
+    github: "https://github.com/stark-vg/add-to-cart-angular",
+    webapp: "https://ang-e-store.netlify.app/",
+    member: [
+      {
+        name: "Vaibhav Goel",
+        img: "HeroImage.jpg",
+        linkedin: "https://www.linkedin.com/in/vaibhav-goel-937027191/",
+        github: "https://github.com/stark-vg",
+      },
     ],
-    category: "web app",
-    github: "https://github.com/stark-vg/stark-main",
-    webapp: "",
   },
   {
     id: 0,
@@ -411,12 +404,12 @@ export const projects = [
     title: "Zero-Kattas",
     date: "Feb 2022 - April 2023",
     description:
-      "Developed a basic app and web application based small game. The game is played on a grid that's 3 squares by 3 squares. You are X , your friend (or the computer in this case) is O . Players take turns putting their marks in empty squares. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.",
+      "Developed a basic andriod and web application based small game. The game is played on a grid that's 3 squares by 3 squares. You are X , your friend (or the computer in this case) is O . Players take turns putting their marks in empty squares. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.",
     image:
       "TicTacToe.PNG",
     tags: ["React Js", "HTML", "CSS", "Javascript", "Android apk"],
     category: "android app",
-    android: "https://drive.google.com/file/d/1UTxjZnnvjLAAo58uZqJtnMwmpGrx6Iyy/view",
+    github: "https://drive.google.com/drive/folders/1Q55CTBWV1lupUmGTQRAJX4RW-flOemE6?usp=sharing",
     webapp: "https://zero-kattas.tiiny.site/",
     member: [
       {
@@ -480,6 +473,34 @@ export const projects = [
         github: "https://github.com/stark-vg",
       },
     ],
+  },
+  {
+    id: 9,
+    title: "Home Automation System",
+    date: "April 2022 - October 2022",
+    description:
+      "Starkiot is a web application home automation based system designed to control the electric switches remotely from any place around the globe. It provides a user-friendly interface for customers to keep track of their electricity bills. \nAdmin Credentials:	#Email: rajneesh.saini1976@gmail.com	#Password- 1234",
+    image:
+      "Home-Automation.jpg",
+    tags: [
+      "Angular",
+      "Javascript",
+      "Typescript",
+      "CSS",
+      "Git/Github",
+      "Stored Procedures",
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "Xampp",
+      "Mysql",
+      "Php",
+    ],
+    category: "web app",
+    github: "https://github.com/stark-vg/stark-main",
+    webapp: "",
   },
   // {
     // id: 3,
