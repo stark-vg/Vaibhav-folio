@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, Quest to work and learn in a real professional and vying ambience that enables me to cope with the emerging as well as latest technology and scope for widening the spectrum of my knowledge with tactful handling the tasks. I am always looking for improvement and hence appreciate constructive criticism.",
   github: "https://github.com/stark-vg",
-  resume: "https://drive.google.com/file/d/1TilXdIifyVHdkjcQhudnwXeB55xy4sHs/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1c60HCTmOUTC7JWGFArVqqlaILxE-Tsma/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vaibhav-goel-937027191",
   twitter: "https://twitter.com/starkvg11",
   insta: "https://www.instagram.com/stark_vg/?",
